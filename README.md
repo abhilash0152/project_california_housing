@@ -14,7 +14,7 @@ Key Features:
 
 5.One-hot encodes categorical data (ocean_proximity)
 
-6.Random Forest Regression Model trained on processed data.
+6.Random Forest Regression(used after cheaking cross_val_score) Model trained on processed data.
 
 7.Model and Pipeline Saved as .pkl files using joblib for future use.
 
