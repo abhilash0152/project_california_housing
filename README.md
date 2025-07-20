@@ -1,6 +1,6 @@
 # project_california_housing
 This project predicts housing prices in California using a machine learning model trained on demographic and geographic data. It uses Random Forest Regressor for prediction and applies a clean, modular preprocessing pipeline built with scikit-learn.
-The goal of this project is to build a regression model that can accurately predict house prices. The process involves data cleaning, preprocessing, training a machine learning model, and generating predictions on test data.
+The goal of this project is to build a regression model that tries to accurately predict house prices. The process involves data cleaning, preprocessing, training a machine learning model, and generating predictions on test data.
 
 Key Features:
 
