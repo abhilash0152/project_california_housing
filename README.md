@@ -19,3 +19,13 @@ Key Features:
 7.Model and Pipeline Saved as .pkl files using joblib for future use.
 
 8.Prediction Output saved as output.csv with actual + predicted values.
+
+HOW TO USE:
+
+1.Just download Ml_model.py and housing.csv
+
+2.The first run trains the model and saves it as .pkl files.
+
+3.Subsequent runs load the trained model and make predictions on test data.
+
+
