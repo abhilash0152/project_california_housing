@@ -22,7 +22,7 @@ Key Features:
 
 HOW TO USE:
 
-1.Just download Ml_model.py and housing.csv
+1.Just download Ml_model.py and housing.csv and also you need to import the libraries mentioned in requirements.txt
 
 2.The first run trains the model and saves it as .pkl files.
 
